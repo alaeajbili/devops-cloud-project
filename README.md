@@ -1,6 +1,6 @@
 # Projet DevOps / Cloud : API sur AWS simulé (LocalStack)
 
-API de gestion de tâches (FastAPI) conteneurisée, infrastructure AWS décrite en **Terraform** (testée sur **LocalStack**, coût 0 €), pipeline **CI/CD GitHub Actions** avec scans de sécurité, monitoring **Prometheus / Grafana**.
+API de gestion de tâches (FastAPI) conteneurisée, infrastructure AWS décrite en **Terraform** (testée sur **LocalStack**), pipeline **CI/CD GitHub Actions** avec scans de sécurité, monitoring **Prometheus / Grafana**.
 
 ## Stack
 
