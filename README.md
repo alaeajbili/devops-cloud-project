@@ -49,6 +49,4 @@ _À compléter en semaine 6 (schéma + explication de chaque brique)._
 
 _À compléter : ECS Fargate, RDS, ALB, Secrets Manager, CloudWatch, OIDC GitHub, estimation des coûts._
 
-## Texte pour le CV
 
-> Projet DevOps : API conteneurisée, infrastructure AWS provisionnée avec Terraform (modules, state distant, environnements dev/prod, testée sur LocalStack), pipeline CI/CD GitHub Actions avec scans de sécurité (Trivy, Checkov), monitoring Prometheus/Grafana.
